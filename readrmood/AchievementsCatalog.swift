@@ -1,7 +1,7 @@
 import SwiftUI
 import Combine
 import Foundation
-
+ 
 public struct AchievementDefinition: Identifiable, Codable, Equatable {
     public let id: UUID
     public let code: String
